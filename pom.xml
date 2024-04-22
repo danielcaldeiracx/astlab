@@ -55,7 +55,7 @@
                 <groupId>org.apache.tomcat.maven</groupId>
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <version>2.1</version>
-                <executions>lo
+                <executions>
                     <execution>
                         <id>tomcat-run</id>
                         <goals>
